@@ -6,6 +6,10 @@
     list-style: none;
 }
 
+.pokemons {
+    cursor: url(http://www.webcis.com.br/images/lupa-clientes.cur), default;
+ }
+
 .normal {
     background-color: #a6a877;
 }
